@@ -1,5 +1,7 @@
 # LeetCode Hot 100
 
+[![wakatime](https://wakatime.com/badge/user/5b960c5b-a7d7-4a2d-bb6b-fdcef6171837/project/dc31a129-18f3-4e2e-9673-ea66d0871c47.svg)](https://wakatime.com/badge/user/5b960c5b-a7d7-4a2d-bb6b-fdcef6171837/project/dc31a129-18f3-4e2e-9673-ea66d0871c47.svg)
+
 ## 哈希
 - [X] 两数之和 - 简单
 - [ ] 字母异位词分组 - 中等
